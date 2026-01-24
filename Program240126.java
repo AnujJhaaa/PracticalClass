@@ -49,7 +49,6 @@ class Program240126 {
 		while( copy != 0) {
 			int lastDigit = copy % 10;
 			arm = arm + (int)Math.pow(lastDigit, countDigits);
-			countDigits--;
 			copy/=10;
 		}
 		
