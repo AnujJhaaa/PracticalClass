@@ -17,7 +17,7 @@ class ArrayReverse {
         arr[j] = arr[i]^arr[j];
         arr[i] = arr[i]^arr[j];
     }
-
+    // 2-pointer method
     public static void reverseArray() {
         for(int i=0,j=arr.length-1; i<j; i++,j--){
             swap(i,j); 
