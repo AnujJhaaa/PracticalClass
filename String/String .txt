@@ -1,0 +1,101 @@
+String Manipulation Programs
+1. Counting Characters
+Write a program to count the number of occurrences of the character 'e' or 'E' in the given
+string:​
+Input: s = "javaEEdeve"​
+Expected Output: e/E count: 3
+
+2. Finding Vowels
+Write a program to find lowercase vowels from the given string and display both the vowels
+and their count.​
+Input: s = "javadev"​
+Expected Output:
+●​ Vowels: a, a, e
+●​ Count: 3
+
+3. Reversing a String
+Write a program to reverse a string.​
+Input: s = "javadev"​
+Expected Output: vedavaj
+
+4. Checking for Palindrome
+Write a program to check whether a given string is a palindrome.​
+Input:​
+a. "madam"​
+b. "Mom"​
+Expected Output:
+●​ "madam" is a palindrome.
+●​ "Mom" is a palindrome.
+
+5. Counting Words in a String
+Write a program to count the number of words in a string.​
+Input: s = "I am a java developer"​
+Expected Output: 5
+
+6. Printing Unique Characters
+Write a program to print all unique characters in a string.​
+Input: s = "javajavajavadevdevdev"​
+Expected Output: javde
+
+7. Replacing Characters in a String
+Write a program to replace all occurrences of 'e' with 'a' in the given string.​
+Input: s = "java development"​
+Expected Output: "java davalopmant"
+
+8. Replacing Substrings
+Write a program to replace "java" with "core java" in the given string.​
+Input: s = "java development"​
+Expected Output: "core java development"
+
+9. Removing Spaces
+Write a program to remove all spaces from a given string.​
+Input: s = "java development"​
+Expected Output: "javadevelopment"
+
+10. Removing Capital Letters
+Write a program to remove all uppercase letters from a string.​
+Input: s = "jAvA DeVeloPer"​
+Expected Output: "jveloer"
+
+11. Removing Small Letters
+Write a program to remove all lowercase letters from a string.​
+Input: s = "jAvA DeVeloPer"​
+Expected Output: "ADA DVP"
+
+12. Removing Digits
+Write a program to remove all digits from a string.​
+Input: s = "ja123vaDEveloper"​
+Expected Output: "javaDEveloper"
+
+13. Removing Vowels
+Write a program to remove all vowels from a string.​
+Input: s = "ja123vaDEveloper"​
+Expected Output: "j123vDvlpr"
+
+14. Counting Substring Frequency
+Write a program to count the frequency of a given substring in a string.​
+Input:
+String str1 = "we work to live and live to be happy live";String word1 = "live";
+Expected Output: 3
+
+15. Finding the Longest Word
+Write a program to find the longest word in a string.​
+Input: s = "I am a java developer"​
+Expected Output: "developer"
+
+16. Counting Character Frequency
+Write a program to count the frequency of each character in a given string.​
+Input: s = "javadev"​
+Expected Output:
+A - 2
+D - 1
+E - 1
+J - 1
+V - 2
+
+17. Reversing Words in a Sentence
+Write a program to reverse the order of words in a sentence.​
+Input: s = "I love Java"​
+Expected Output: "Java love I"
+
+18. Check the given two strings are angram or not?
